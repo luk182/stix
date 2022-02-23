@@ -56,7 +56,7 @@
                 },
                 "7": {
                     "pid": 1824,
-                    "name": "svchost.exe",
+                    "name": "badfile.exe",
                     "type": "process",
                     "created": "2023-08-31T04:46:36.071Z",
                     "binary_ref": "6",

@@ -1,22 +1,22 @@
 {
     "type": "bundle",
-    "id": "281fe97a-35d8-4b84-be2e-253047cc6274",
+    "id": "281fx97a-35d8-4b84-be2e-253047cc6274",
     "spec_version": "2.0",
     "objects": [
         {
             "type": "identity",
-            "id": "identity--ab920cb1-239b-4371-b7f6-66f634de9927",
+            "id": "identity--ab923cb1-239b-4371-b7f6-66f634de9927",
             "name": "shifter_proxy",
             "identity_class": "events"
         },
         {
-            "id": "observed-data--e2717c9d-4eb6-41fe-90b2-dead702e36d3",
+            "id": "observed-data--e2717c8d-4eb6-41fe-90b2-dead702e36d3",
             "type": "observed-data",
             "created": "2021-09-09T04:12:07.335Z",
             "objects": {
                 "0": {
                     "type": "x-crowdstrike",
-                    "machine_id": "6a813bbd845c2bf3115e24c40fd9a902a3047e8b"
+                    "machine_id": "6a813bbd945c2bf3115e24c40fd9a902a3047e8b"
                 },
                 "1": {
                     "type": "domain-name",
@@ -48,9 +48,9 @@
                     "name": "svchost.exe",
                     "type": "file",
                     "hashes": {
-                        "MD5": "f586835082f632dc8d9404d83bc16316",
-                        "SHA-1": "010db07461e45b41c886192df6fd425ba8d42d82",
-                        "SHA-256": "643ec58e82e0272c97c2a59f6020970d881af19c0ad5029db9c958c13b6558c7"
+                        "MD5": "f586835082f6325c8d9404d83bc16316",
+                        "SHA-1": "010db07461e45b41c686192df6fd425ba8d42d82",
+                        "SHA-256": "643ec58e82e0272c97c2a59c6020970d881af19c0ad5029db9c958c13b6558c7"
                     },
                     "parent_directory_ref": "8"
                 },

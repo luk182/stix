@@ -52,7 +52,7 @@
                     "path": "s3.amazonaws.com"
                 },
                 "10": {
-                    "type": "artifact",
+                    "type": "file",
                     "payload_bin": "CustomerExports.xls"
                 }
             },

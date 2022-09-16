@@ -40,8 +40,8 @@
                     "resolves_to_refs": "4"
                 },
                 "4": {
-                    "type": "mac-addr",
-                    "value": "00:00:00:00:00:00"
+                    "type": "file",
+                    "value": "CustomersExport.xls"
                 },
                 "5": {
                     "type": "user-account",

@@ -45,12 +45,12 @@
                     "value": "172.20.13.104"
                 },
                 "6": {
-                    "name": "svchost.exe",
+                    "name": "MrMalware.exe",
                     "type": "file",
                     "hashes": {
                         "MD5": "f586835082f6325c8d9404d83bc16316",
                         "SHA-1": "010db07461e45b41c686192df6fd425ba8d42d82",
-                        "SHA-256": "643ec58e82e0272c97c2a59c6020970d881af19c0ad5029db9c958c13b6558c7"
+                        "SHA-256": "95f0d854c4466c911b337054c85d3911db7b353c097f06cce58f4938e7acac04"
                     },
                     "parent_directory_ref": "8"
                 },
